@@ -20,6 +20,10 @@ $ tar xvfz "".tgz
 $ cd ""
 $ make
 
+#Lancer le programme
+$ ./DetMin ./AFN1 "ChainedeCaractères"
+
+
 ## Auteurs
 Hidouri Balkis
 Gharsi Sinda Chams el ghozlen
