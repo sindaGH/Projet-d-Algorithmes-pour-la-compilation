@@ -20,7 +20,7 @@ $ tar xvfz "".tgz
 $ cd ""
 $ make
 
-#Lancer le programme
+### Lancer le programme
 $ ./DetMin ./AFN1 "ChainedeCaractères"
 
 
